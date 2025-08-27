@@ -30,6 +30,10 @@ public class AboutMe {
 }
 ```
 
+## 🔥 Featured Projects
+
+▶️ **[JobPortal](http://www.jobportal.blog)** - Full-stack job portal application with Spring Boot backend and React frontend
+
 ## 💻 What I Do
 
 - **Backend Development** - Creating scalable microservices with Java 17 and Spring Boot ecosystem
@@ -81,10 +85,6 @@ public class AboutMe {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-## 🔥 Featured Projects
-
-▶️ **[JobPortal](http://www.jobportal.blog)** - Full-stack job portal application with Spring Boot backend and React frontend
 
 ## 🌐 Let's Connect
 
