@@ -32,7 +32,9 @@ public class AboutMe {
 
 ## 🔥 Featured Projects
 
-▶️ **[JobPortal](http://www.jobportal.blog)** - Full-stack job portal application with Spring Boot backend and React frontend
+▶️ **[JobPortal](http://www.jobportal.blog)** - Full-stack job portal application with Spring Boot backend and React frontend.
+▶️ **[BookHub](https://obminbook.netlify.app)** - The Online Bookstore API is a multifunctional system that manages unlimited books in your store. 
+
 
 ## 💻 What I Do
 
