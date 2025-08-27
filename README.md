@@ -86,14 +86,6 @@ public class AboutMe {
 
 ▶️ **[JobPortal](http://www.jobportal.blog)** - Full-stack job portal application with Spring Boot backend and React frontend
 
-## 📊 GitHub Analytics ⚙️
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=novitskiiy&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novitskiiy&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=novitskiiy&theme=radical)
-
 ## 🌐 Let's Connect
 
 - **Email**: veremienko.bogdan@gmail.com
